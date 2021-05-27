@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "date": "12.05.2019",
+    "category": "Clothing",
+    "price": 2020
+  },
+  {
+    "id": 2,
+    "date": "11.10.2020",
+    "category": "Transport",
+    "price": 300
+  },
+  {
+    "id": 3,
+    "date": "01.01.2021",
+    "category": "Food",
+    "price": 560
+  },
+  {
+    "id": 4,
+    "date": "13.02.2021",
+    "category": "Clothing",
+    "price": 1800
+  },
+  {
+    "id": 5,
+    "date": "08.05.2021",
+    "category": "Clothing",
+    "price": 2350
+  }
+]
